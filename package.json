@@ -1,0 +1,9 @@
+{
+  "name": "@arshad/hello",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
